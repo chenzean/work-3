@@ -1,0 +1,10 @@
+# ninja log v5
+5	9050	1715065478572745000	/mnt/c/Users/Administrator/Desktop/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cus/selective_scan_core_fwd.o	e8b44bfbbc25bb3b
+4	18787	1715065488299185700	/mnt/c/Users/Administrator/Desktop/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cus/selective_scan.o	f29a7e38c9b800ff
+5	28964	1715065498481207000	/mnt/c/Users/Administrator/Desktop/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cus/selective_scan_core_bwd.o	4b97d672b94a8f1a
+19	8511	1715065507976527500	/mnt/c/Users/Administrator/Desktop/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusndstate/selective_scan_core_fwd.o	f6e49eb173401a5c
+22	18218	1715065517677312000	/mnt/c/Users/Administrator/Desktop/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusndstate/selective_scan_ndstate.o	a452466c0bf22af9
+19	28645	1715065528106108900	/mnt/c/Users/Administrator/Desktop/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusndstate/selective_scan_core_bwd.o	b405b2c17fc53148
+23	13149	1715065542186765600	/mnt/c/Users/Administrator/Desktop/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	284a4e384518cc5d
+23	17739	1715065546771659500	/mnt/c/Users/Administrator/Desktop/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusoflex/selective_scan_oflex.o	b06280041fea68f4
+22	46295	1715065575330915800	/mnt/c/Users/Administrator/Desktop/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	dd7ff4e616b71224
